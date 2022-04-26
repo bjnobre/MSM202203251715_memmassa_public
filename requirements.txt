@@ -30,7 +30,7 @@ entrypoints==0.3
 executing==0.8.3
 Flask==1.1.2
 fonttools==4.31.2
-hide-code==0.6.0
+#hide-code==0.6.0
 httplib2==0.14.0
 hyperlink==19.0.0
 idna==2.8
