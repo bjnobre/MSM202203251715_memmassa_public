@@ -128,7 +128,7 @@ qtconsole==5.3.0
 QtPy==2.0.1
 requests==2.22.0
 requests-unixsocket==0.2.0
-scipy==1.8.0
+scipy==1.7.3
 SecretStorage==2.3.1
 Send2Trash==1.8.0
 service-identity==18.1.0
